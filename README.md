@@ -1,6 +1,6 @@
 # fedora-extra-wallpappers
 
-Run gnome.sh with sudo
+Run gnome-wallpapers.sh with sudo
 
 
 ```shell
